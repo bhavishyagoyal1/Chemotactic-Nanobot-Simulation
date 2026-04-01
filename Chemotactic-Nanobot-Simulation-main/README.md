@@ -14,7 +14,6 @@
 | **Anoop Kumar** | Testing, edge case validation, performance analysis |
 | **Bhavishya Goyal** | Documentation, presentation, real-world application research |
 
-- GitHub: [github.com/yash2yaduvanshi/Robothon-2026](https://github.com/yash2yaduvanshi/Robothon-2026)
 
 ---
 
