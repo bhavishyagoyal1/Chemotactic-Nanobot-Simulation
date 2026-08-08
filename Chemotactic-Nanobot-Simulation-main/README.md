@@ -80,8 +80,8 @@ Robothon-2026/
 
 ### Step 1 — Clone
 ```bash
-git clone https://github.com/yash2yaduvanshi/Robothon-2026.git
-cd Robothon-2026
+git clone https://github.com/bhavishyagoyal1/Chemotactic-Nanobot-Simulation.git
+cd Chemotactic-Nanobot-Simulation
 ```
 
 ### Step 2 — Install dependencies
