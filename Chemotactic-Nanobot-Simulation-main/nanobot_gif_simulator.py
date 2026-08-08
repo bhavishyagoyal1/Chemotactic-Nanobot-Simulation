@@ -3,9 +3,9 @@
   Robothon 2026 - Project 4b: Chemotactic Plume Tracking
   ROBOTiX Club, NIT Raipur | ANANTYA'26
 =============================================================
-  Author  : Yash Yaduvanshi
-  GitHub  : https://github.com/yash2yaduvanshi
-  LinkedIn: https://www.linkedin.com/in/yash-yaduvanshi-2f2008/
+  Author  : Bhavishya Goyal
+  GitHub  : https://github.com/bhavishyagoyal1
+  LinkedIn: www.linkedin.com/in/bhavishyagoyal01
 
   DYNAMIC ANIMATED VERSION with Kalman Filter
   All 6 panels update live — nanobot moves in real time
@@ -348,7 +348,7 @@ def build_and_save(path, raw_conc, filt_conc, dist_log,
         fig_err.suptitle(
             "NANOBOT CHEMOTACTIC PLUME TRACKING  |  "
             "Kalman Filter + Gradient Climbing  |  "
-            "Robothon 2026  |  Yash Yaduvanshi",
+            "Robothon 2026  |",
             color=WHITE, fontsize=11, fontweight="bold", y=0.995,
         )
         gs_err = gridspec.GridSpec(1, 2, figure=fig_err,
@@ -448,7 +448,7 @@ def build_and_save(path, raw_conc, filt_conc, dist_log,
     fig.suptitle(
         "NANOBOT CHEMOTACTIC PLUME TRACKING  |  "
         "Kalman Filter + Gradient Climbing  |  "
-        "Robothon 2026  |  Yash Yaduvanshi",
+        "Robothon 2026  |",
         color=WHITE, fontsize=11, fontweight="bold", y=0.995,
     )
 

@@ -14,6 +14,10 @@
 | **Anoop Kumar** | Testing, edge case validation, performance analysis |
 | **Bhavishya Goyal** | Documentation, presentation, real-world application research |
 
+<<<<<<< HEAD
+=======
+- GitHub: [github.com/bhavishyagoyal1/Chemotactic-Nanobot-Simulation](https://github.com/bhavishyagoyal1/Chemotactic-Nanobot-Simulation)
+>>>>>>> ff3c351 (Updated project branding and README)
 
 ---
 

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+"""
+  Author  : Bhavishya Goyal
+"""
+>>>>>>> ff3c351 (Updated project branding and README)
 import numpy as np
 import matplotlib
 matplotlib.use("TkAgg")          
@@ -201,7 +207,7 @@ def show_live(path, raw_conc, filt_conc, dist_log,
     fig.suptitle(
         "NANOBOT CHEMOTACTIC PLUME TRACKING  |  "
         "Kalman Filter + Gradient Climbing  |  "
-        "Robothon 2026  |  Yash Yaduvanshi  |  "
+        "  Bhavishya Goyal  |  "
         "← DRAG 3D PANEL TO ROTATE",
         color=WHITE, fontsize=10, fontweight="bold", y=0.995
     )
